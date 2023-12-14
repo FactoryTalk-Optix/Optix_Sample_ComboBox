@@ -1,0 +1,8 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Enumeration/Enumeration.yaml
+- File: Variables/Variables.yaml
+- File: Object/Object.yaml
+- File: Object_Colors/Object_Colors.yaml
+- File: DataloggerMode/DataloggerMode.yaml

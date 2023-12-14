@@ -1,0 +1,19 @@
+Name: Object_Colors
+Type: FolderType
+Children:
+- Name: ColorsSelection
+  Id: g=c3607beec130f51d1de44b3483fe16fd
+  Type: BaseObjectType
+  Children:
+  - Name: Red
+    Type: BaseDataVariableType
+    DataType: Color
+    Value: "#ff0000"
+  - Name: Green
+    Type: BaseDataVariableType
+    DataType: Color
+    Value: "#00ff00"
+  - Name: Blue
+    Type: BaseDataVariableType
+    DataType: Color
+    Value: "#0000ff"

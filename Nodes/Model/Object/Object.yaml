@@ -1,0 +1,37 @@
+Name: Object
+Type: FolderType
+Children:
+- Name: ModelObj
+  Id: g=794c7479fa048d71d8a716d9bd978e89
+  Type: BaseObjectType
+  Children:
+  - Name: Variable0
+    Id: g=c46e8f957772017a0bcf36bbea7dbf73
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 1
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 2
+  - Name: Variable3
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 3
+  - Name: Variable4
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 4
+  - Name: Variable5
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 5
+- Name: ComboBox_Output
+  Id: g=e918208eb0143bf91080ac86660a89ec
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
