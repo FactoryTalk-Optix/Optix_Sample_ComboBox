@@ -66,7 +66,6 @@ Children:
     ArrayDimensions: [0]
     Value: [{"TypeId":{"Id":7594},"Body":{"Value":0,"DisplayName":{"LocaleId":"en-US","Text":"zero"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":1,"DisplayName":{"LocaleId":"en-US","Text":"one"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":2,"DisplayName":{"LocaleId":"en-US","Text":"two"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":3,"DisplayName":{"LocaleId":"en-US","Text":"three"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":4,"DisplayName":{"LocaleId":"en-US","Text":"four"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":5,"DisplayName":{"LocaleId":"en-US","Text":"five"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}}]
 - Name: ComboBox_Output
-  Id: g=0138432ab82bbef13201596d5865dea8
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0

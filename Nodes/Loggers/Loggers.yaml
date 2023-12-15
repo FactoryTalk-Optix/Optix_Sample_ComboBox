@@ -6,19 +6,18 @@ Children:
   Type: DataLogger
   Children:
   - Name: SamplingMode
-    Id: g=798ce3f550f2519064e13f1e2da858af
     Type: PropertyType
     DataType: SamplingModeEnum
     Value: 1
   - Name: Store
     Type: NodePointer
     DataType: NodeId
-    Value: {"IdType":2,"Id":"f5d6d1ce73deb46a3ed0ba4c8d3c3a6a","Namespace":7}
+    Value: "/Objects/Optix_Sample_ComboBox/DataStores/EmbeddedDatabase1"
     Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: {"Id":1,"Namespace":9}
+      Value: "/Types/ObjectTypes/BaseObjectType/Store"
   - Name: VariablesToLog
     Type: BaseObjectType
     Children:

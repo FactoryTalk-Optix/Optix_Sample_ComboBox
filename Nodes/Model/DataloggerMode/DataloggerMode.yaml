@@ -2,7 +2,6 @@ Name: DataloggerMode
 Type: FolderType
 Children:
 - Name: Variable1
-  Id: g=3d26167b5645368af371b36ca539be3b
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0

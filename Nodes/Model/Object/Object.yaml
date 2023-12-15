@@ -31,7 +31,6 @@ Children:
     DataType: Int32
     Value: 5
 - Name: ComboBox_Output
-  Id: g=e918208eb0143bf91080ac86660a89ec
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
